@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Colton Francis</h1>
-- 👯 I’m looking to collaborate on **Anything**
+<h2 align="center">- 👯 I’m looking to collaborate on **Anything**</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
